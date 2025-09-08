@@ -4,7 +4,7 @@ project:
   title:        "grey_code_convertor"      # Project title
   author:       "Group 6"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "it is a grey code counter"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     10     # Clock frequency in Hz (or 0 if not applicable)
 
